@@ -167,5 +167,5 @@ for the same binding rules.
 
 ## License
 
-Add your choice — MIT recommended. Model facts cited from Anthropic's
+Model facts cited from Anthropic's
 public announcements; links in `references/model-adapters.md`.
